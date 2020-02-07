@@ -9,17 +9,10 @@
 - Microsoft Edge Stable 79.0.309.71
 - Google Chrome 80
 
-### Azure Databricks Notebook ハンズオン 使用データ
-[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce) で提供されているeコマース売上データを利用します。今回は8つのデータテーブルのうち、3つのテーブルを用います。本リポジトリよりダウンロードお願いいたします。
+### 使用データ
+[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce) で提供されているeコマース売上データを利用します。以下よりダウンロードお願いいたします。
 
-- olist_order_items_dataset.csv
-- olist_products_dataset.csv
-- product_category_name_translation.csv
-
-### Power BI ダッシュボード ハンズオン 使用データ
-前述のデータを組み合わせたテーブルを Power BI ダッシュボードで可視化します。 本リポジトリより以下の CSV ファイルをダウンロードお願いいたします。
-
-- table for PBI.csv
+[CSV ダウンロードリンク](https://kcactived.sharepoint.com/:u:/s/Internal/ESUu0A2mprBPnXvkAZZqP34BupdnqqJ-0wnJ9xDrX3RH8Q?e=QVNZAL)
 
 ### ハンズオン手順
 本リポジトリの Wiki をご参照ください。
